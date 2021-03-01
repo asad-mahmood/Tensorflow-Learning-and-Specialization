@@ -80,7 +80,16 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
 - Outro: Conversation with Andrew
 - [Week 4 - Classifying emotion with CNN.ipynb]()
 
-## Course 2: Convolutional Neural Networks in TensorFlow
+<div>
+  <a href="https://github.com/asad-mahmood/Tensorflow-Learning-and-Specialization/tree/main/Course%202%20-%20CNN%20In%20Depth" target="_blank">
+  <h2>
+   2. Convolutional Neural Networks in TensorFlow
+    </a>
+ <a href="https://github.com/asad-mahmood/Tensorflow-Learning-and-Specialization/blob/main/Course%202%20-%20CNN%20In%20Depth/CNN.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Certificate-Complete-%230056D2?style=?flat-square&logo=Coursera" />
+ </a>
+  </h2>
+</div>
 
 This second course teaches you advanced techniques to improve the computer vision model you built in Course 1. You will explore how to work with real-world images in different shapes and sizes, visualize the journey of an image through convolutions to understand how a computer “sees” information, plot loss and accuracy, and explore strategies to prevent overfitting, including augmentation and dropouts. Finally, Course 2 will introduce you to transfer learning and how learned features can be extracted from models.
 
