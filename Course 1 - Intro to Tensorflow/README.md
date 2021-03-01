@@ -1,5 +1,3 @@
-![Certificate](https://github.com/asad-mahmood/Tensorflow-Learning-and-Specialization/blob/main/Course%201%20-%20Intro%20to%20Tensorflow/Coursera%2065D76HFY7KZQ-1.jpg)
-
 <div>
   <a href="https://github.com/asad-mahmood/Tensorflow-Learning-and-Specialization/tree/main/Course%201%20-%20Intro%20to%20Tensorflow" target="_blank">
   <h2>
@@ -11,16 +9,8 @@
   </h2>
 </div>
 
-<div>
-  <a href="https://github.com/asad-mahmood/Tensorflow-Learning-and-Specialization/tree/main/Course%201%20-%20Intro%20to%20Tensorflow" target="_blank">
-  <h2>
-  1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
-    </a>
- <a href="https://github.com/asad-mahmood/Tensorflow-Learning-and-Specialization/blob/main/Course%201%20-%20Intro%20to%20Tensorflow/Coursera%2065D76HFY7KZQ.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Certificate-Complete-%230056D2?style=?flat-square&logo=Coursera" />
- </a>
-  </h2>
-</div>
+![Certificate](https://github.com/asad-mahmood/Tensorflow-Learning-and-Specialization/blob/main/Course%201%20-%20Intro%20to%20Tensorflow/Coursera%2065D76HFY7KZQ-1.jpg)
+
 This first course introduces you to Tensor Flow, a popular machine learning framework. You will learn how to build a basic neural network for computer vision and use convolutions to improve your neural network.
 
 #### Week 1: A New Programming Paradigm
