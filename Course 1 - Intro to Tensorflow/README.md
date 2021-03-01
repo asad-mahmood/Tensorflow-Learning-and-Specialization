@@ -1,10 +1,6 @@
 ## Certificate
 
-<object data="https://github.com/asad-mahmood/Tensorflow-Learning-and-Specialization/blob/main/Course%201%20-%20Intro%20to%20Tensorflow/Coursera%2065D76HFY7KZQ.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/asad-mahmood/Tensorflow-Learning-and-Specialization/blob/main/Course%201%20-%20Intro%20to%20Tensorflow/Coursera%2065D76HFY7KZQ.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+![Certificate](https://github.com/asad-mahmood/Tensorflow-Learning-and-Specialization/blob/main/Course%201%20-%20Intro%20to%20Tensorflow/Coursera%2065D76HFY7KZQ-1.jpg)
 
 <div>
   <a href="https://github.com/asad-mahmood/Tensorflow-Learning-and-Specialization/tree/main/Course%201%20-%20Intro%20to%20Tensorflow" target="_blank">
