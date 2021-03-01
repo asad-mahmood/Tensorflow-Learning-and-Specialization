@@ -1,9 +1,41 @@
 ![](https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2019/06/Website-TFSDesktopBanner.png)
 
-**My Certification** : 
+This Repository Contains Solution to the Assignments of the Tensorflow in Practice Specialization from [deeplearning.ai](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/professional-certificates/tensorflow-in-practice) taught by [*Laurence Moroney*](https://www.coursera.org/instructor/lmoroney).
 
-## Course 1: Introduction to TensorFlow for AI, ML and DL
+TensorFlow is one of the most in-demand and popular open-source deep learning frameworks available today. The DeepLearning.AI TensorFlow Developer Professional Certificate program taught me applied machine learning skills with TensorFlow so I can build and train powerful models.
 
+In this hands-on, four-course Professional Certificate program, I have learned the necessary tools to build scalable AI-powered applications with TensorFlow. After finishing this program, I am able to apply your new TensorFlow skills to a wide range of problems and projects. This program can help me prepare for the Google TensorFlow Certificate exam and bring me one step closer to achieving the Google TensorFlow Certificate.
+
+In the DeepLearning.AI TensorFlow Developer Professional Certificate program, I got hands-on experience through 16 Python programming assignments. By the end of this program, you will be ready to:
+
+- Build and train neural networks using TensorFlow
+- Improve your network’s performance using convolutions as you train it to identify real-world images
+- Teach machines to understand, analyze, and respond to human speech with natural language processing systems
+- Process text, represent sentences as vectors, and train a model to create original poetry!
+
+To achieve this, this program includes following courses:
+
+1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+2. Convolutional Neural Networks in TensorFlow
+3. Natural Language Processing in TensorFlow
+4. Sequences, Time Series and Prediction
+
+Check out the course details [here](https://www.coursera.org/professional-certificates/tensorflow-in-practice).
+
+## Certificate
+
+![Certificate]()
+
+<div>
+  <a href="https://github.com/asad-mahmood/Tensorflow-Learning-and-Specialization/tree/main/Course%201%20-%20Intro%20to%20Tensorflow" target="_blank">
+  <h2>
+  1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+    </a>
+ <a href="https://github.com/asad-mahmood/Tensorflow-Learning-and-Specialization/blob/main/Course%201%20-%20Intro%20to%20Tensorflow/Coursera%2065D76HFY7KZQ.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Certificate-Complete-%230056D2?style=?flat-square&logo=Coursera" />
+ </a>
+  </h2>
+</div>
 This first course introduces you to Tensor Flow, a popular machine learning framework. You will learn how to build a basic neural network for computer vision and use convolutions to improve your neural network.
 
 #### Week 1: A New Programming Paradigm
