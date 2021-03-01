@@ -1,6 +1,6 @@
 ## Certificate
 
-![]()
+![Certificate](https://github.com/asad-mahmood/Tensorflow-Learning-and-Specialization/blob/main/Course%201%20-%20Intro%20to%20Tensorflow/Coursera%2065D76HFY7KZQ.pdf)
 
 <div>
   <a href="https://github.com/asad-mahmood/Tensorflow-Learning-and-Specialization/tree/main/Course%201%20-%20Intro%20to%20Tensorflow" target="_blank">
