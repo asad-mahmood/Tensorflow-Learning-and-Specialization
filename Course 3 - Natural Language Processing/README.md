@@ -2,7 +2,7 @@
 <div>
   <a href="https://github.com/asad-mahmood/Tensorflow-Learning-and-Specialization/tree/main/Course%203%20-%20Natural%20Language%20Processing" target="_blank">
   <h2>
-   3. Natural Language Processing
+   Natural Language Processing
     </a>
  <a href="https://github.com/asad-mahmood/Tensorflow-Learning-and-Specialization/blob/main/Course%203%20-%20Natural%20Language%20Processing/NLP.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Certificate-Complete-%230056D2?style=?flat-square&logo=Coursera" />
