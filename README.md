@@ -1,4 +1,4 @@
-![](https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2019/06/Website-TFSDesktopBanner.png)
+![](https://github.com/asad-mahmood/Tensorflow-Learning-and-Specialization/blob/main/icon.png)
 
 This Repository Contains Solution to the Assignments of the Tensorflow in Practice Specialization from [deeplearning.ai](https://www.deeplearning.ai/) on [Coursera](https://www.coursera.org/professional-certificates/tensorflow-in-practice) taught by [*Laurence Moroney*](https://www.coursera.org/instructor/lmoroney).
 
