@@ -195,6 +195,7 @@ In Course 3 of the deeplearning.ai TensorFlow Specialization, you will build nat
 - Laurence the poet
 - [Week 4 - Poem generation with Bi-directional LSTM.ipynb]()
 
+<div>
   <a href="https://github.com/asad-mahmood/Tensorflow-Learning-and-Specialization/tree/main/Course%204%20-%20Sequences%2C%20Time%20Series%20and%20Prediction" target="_blank">
   <h2>
   4. Sequences, Time Series and Prediction 
