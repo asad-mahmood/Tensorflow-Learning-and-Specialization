@@ -24,7 +24,7 @@ Check out the course details [here](https://www.coursera.org/professional-certif
 
 ## Certificate
 
-![]()
+![](https://github.com/asad-mahmood/Tensorflow-Learning-and-Specialization/blob/main/Specialization%20Certification.jpg)
 
 <div>
   <a href="https://github.com/asad-mahmood/Tensorflow-Learning-and-Specialization/tree/main/Course%201%20-%20Intro%20to%20Tensorflow" target="_blank">
