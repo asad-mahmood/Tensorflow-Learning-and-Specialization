@@ -260,5 +260,3 @@ In this fourth course, you will learn how to build time series models in TensorF
 - Prediction
 - Sunspots
 - Combining our tools for analysis
-
-This finalizes DeepLearning.ai's course. :)
